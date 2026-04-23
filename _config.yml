@@ -2,3 +2,4 @@ title: Ross Yearsley
 description: Blog
 theme: minima
 permalink: /:title/
+baseurl: /blog

@@ -13,7 +13,7 @@ So what is one to do? How do we go about ascertaining what to believe? Or maybe 
 
 Let's start with a simple example from the Wall Street Journal.
 
-![Trump extends Iran ceasefire](/assets/images/posts/reading-between-the-lines/wsj_2026-04-21.png)
+![Trump extends Iran ceasefire]({{ site.baseurl }}/assets/images/posts/reading-between-the-lines/wsj_2026-04-21.png)
 
 The first sentence of this articlet states:
 
@@ -27,5 +27,5 @@ Some might argue that Iran has instituted its own restrictions on ship traffic t
 
 What's the takeaway? We can begin to evaluate news by first looking for logical inconsistencies. The greater and more frequent the logical inconsistencies observed will naturally lead the reader toward a very healthy skepticism. Personally, when I observe logical inconsistencies that are not resolved I tend to move on to another information source.
 
-[flood_the_zone]: https://en.wikipedia.org/wiki/Flood_the_zone [Flood the zone]
-[nava_blockade]: https://guide-humanitarian-law.org/content/article/3/blockade/#:~:text=A%20blockade%20is%20an%20act,26%20February%201909%20in%20London. [Naval blockade law]
+[flood_the_zone]: https://en.wikipedia.org/wiki/Flood_the_zone
+[naval_blockade]: https://guide-humanitarian-law.org/content/article/3/blockade/#:~:text=A%20blockade%20is%20an%20act,26%20February%201909%20in%20London.
