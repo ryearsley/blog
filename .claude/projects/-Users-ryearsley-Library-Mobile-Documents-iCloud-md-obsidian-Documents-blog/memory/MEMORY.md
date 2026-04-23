@@ -1,0 +1,1 @@
+- [Image organization](feedback_image_organization.md) — per-post subdirectories under assets/images/posts/<post-slug>/
