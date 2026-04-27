@@ -2,6 +2,7 @@
 layout: post
 title: "The King comes to America"
 date: 2026-04-27
+updated: 2026-04-27
 ---
 I have a subscription to Apple News but these days I'm spending less time there, or at least trying to. I like to follow geopolitics both from an economic and political perspective. In the end, everything inevitably boils down to economics. There are some excellent podcasts I listen to that regularly present nuanced, fact based analyses with more objectivity and detail than anything you might find on the Apple News stream. 
 
@@ -15,7 +16,7 @@ But back to today. Let's take a look at today's stream. I assume that in theory 
 
 ![King Charles visits]({{ site.baseurl }}/assets/images/posts/the-king-comes-to-america/king_charles_visits.png)
 
-Number three today? Really? I care about kings and their diplomatic wherewithal? Americans care about kings? Isn't there a No Kings movement that has been brought back to life? Didn't we get rid of the British 250 years ago because they had a king telling us what to do? And why do the British still have a king anyway? A guy who inherits a bunch of land, money, castles and some sort of god given credibility just by being born. The only place kings (and princesses) possibly ought to exist is in a Disney movie. What's the fascination? And why would Britain want to mend anything with Trump after being treated as a second class vassal state? I won't be clicking on that link. Merely an instructive headline which checks the vapid box.
+Number three today? Really? I care about kings and their diplomatic wherewithal? Americans care about kings? Isn't there a No Kings movement that has been brought back to life? Didn't we get rid of the British 250 years ago because they had a king telling us what to do? And why do the British still have a king anyway? A guy who inherits a bunch of land, money, castles and some sort of god given credibility just by being born. The only place kings (and princesses) possibly ought to exist is in a Disney movie. What's the fascination? And why would Britain want to mend anything with Trump after being treated as a second class vassal state? I won't be clicking on that link. Merely an instructive headline that checks the vapid box.
 
 [apple_news_bias]: https://www.washingtontimes.com/news/2026/mar/17/trump-puts-apple-notice-news-bias/
 
