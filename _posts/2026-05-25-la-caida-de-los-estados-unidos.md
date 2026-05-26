@@ -2,6 +2,7 @@
 layout: post
 title: "La Caída de Los Estados Unidos"
 date: 2026-05-25
+updated: 2026-05-26
 ---
 The United States government, with Donald Trump at its head, continues apace on a self destructive end game that can only lead to further humiliation and dolor both at home and abroad. What's worse, the mayhem is being carried out without any pretense of morality, rationality or consideration of the people. We've become a giant pustulent serpent head that operates with the intelligence of a reptile and an ego the size of Mt. Rushmore.
 
@@ -36,7 +37,7 @@ One thing in particular stood out to me about [Trump's recent visit to China][ch
 
 ## Conclusion
 
-It's hard not to be dismayed by the craziness, chaos and contradictions that stream out of the White House and Washington, D.C. on a daily basis. But it's now the outright corruption at the highest levels of our nation that may be of most concern. Any sort of moral or intellectual high ground that we might have claimed in the past has been supplanted by greed, nepotism and a thirst for power at any cost. I feel sorry for teachers tasked with inculcating the narrative of American Exceptionalism into young people.
+It's hard not to be dismayed by the craziness, chaos and contradictions that stream out of the White House and Washington, D.C. on a daily basis. But it's now the outright corruption at the highest levels of our nation that may be of most concern. Any sort of moral or intellectual high ground that we might have claimed in the past has been supplanted by greed, nepotism and a thirst for power at any cost. I feel sorry for teachers tasked with inculcating the narrative of American exceptionalism into young people.
 
 [trump_taxes]: https://sd02.senate.ca.gov/news/president-trump-confirms-he-wont-release-taxes-california-senators-want-hold-future-candidates
 [doj_fund]: https://www.wsj.com/politics/policy/what-to-know-about-the-trump-administration-ending-tax-audits-of-trump-5c1e81c1
