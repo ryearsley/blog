@@ -5,7 +5,7 @@ date: 2026-05-27
 ---
 ## Baja California Sur, México
 
-A los trabajadores de México, los admiro mucho. El clima de la costa de Baja California Sur es muy duro. Las calles son de terracería con topes y baches. Sin embargo, los obreros de construcción trabajan sin parar en el fuerte sol, aire salado y polvo constante. Los pescadores tratan con las mareas y la arena. Los jardineros cargan ramas de palo verde y otras plantas muy espinosas. En este entorno se requieren vehículos confiables y fuertes que puedan superar los retos del trabajo diario.
+A los trabajadores de México, los admiro mucho. El clima de la costa de Baja California Sur es muy duro. Las calles son de terracería con topes y baches. Sin embargo, los obreros de construcción trabajan sin parar en el fuerte sol, aire salado y polvo constante. Los pescadores se enfrentan a las mareas y la arena. Los jardineros cargan ramas de palo verde y otras plantas muy espinosas. En este entorno se requieren vehículos confiables y fuertes que puedan superar los retos del trabajo diario.
 
 En este blog les presento unos ejemplos de estas trocas que he capturado en BCS, México. Las trocas aquí son de varias colonias y la ciudad: El Sargento, El Teso, El Triunfo, La Paz. Se darán cuenta de que estas trocas son casi indestructibles. Muestran visiblemente los desafíos que han encontrado pero continúan en servicio de sus dueños. Me recuerdan a las trocas Ford F100 de los 70's que manejaba mi abuelo para llevar el heno, las fresas y las frambuesas de su granja.
 
@@ -59,7 +59,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 </figure>
 
 #### ¡Mi favorito!
-Me gusta mucho esta Ford.
+Me gusta mucho este Ford.
 <figure>
   <figcaption style="font-size: 1.1em">Ford F-150 blanca, sorprendentemente limpia — El Sargento</figcaption>
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0133.jpeg" alt="Ford F-150 blanca restaurada">
