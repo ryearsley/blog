@@ -202,11 +202,11 @@ Me gusta mucho esta Ford.
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0104.jpeg" alt="Dodge Ram blanca, vista frontal en la playa">
 </figure>
 
-### Chevrolet S-10
+### Dodge Dakota
 
 <figure>
-  <figcaption style="font-size: 1.1em">Chevrolet S-10 blanca cargada hasta el tope de ramas — El Sargento</figcaption>
-  <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0076.jpeg" alt="Chevrolet S-10 blanca cargada de heno">
+  <figcaption style="font-size: 1.1em">Dodge Dakota blanca cargada hasta el tope de ramas — El Sargento</figcaption>
+  <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0076.jpeg" alt="Dodge Dakota blanca cargada de ramas">
 </figure>
 
 ### Nissan
