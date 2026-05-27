@@ -220,3 +220,5 @@ Me gusta mucho esta Ford.
   <figcaption style="font-size: 1.1em">Nissan NP300 blanca con plataforma de estacas — El Sargento</figcaption>
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0131.jpeg" alt="Nissan NP300 blanca con estacas">
 </figure>
+### Conclusión
+En estas fotos, vemos cómo se desarrollan los trabajadores de México. Guardan sus trocas bien por muchos años. La evidencia de su fortaleza está escrita en los rasguños y los golpes de sus trocas.
