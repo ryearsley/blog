@@ -58,6 +58,8 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
   <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0116.jpeg" alt="Ford F-250 negra">
 </figure>
 
+### ¡Mi Favorito!
+Me gusta mucho esta Ford.
 <figure>
   <figcaption style="font-size: 1.1em">Ford F-150 blanca, sorprendentemente limpia — El Sargento</figcaption>
   <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0133.jpeg" alt="Ford F-150 blanca restaurada">
@@ -204,7 +206,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 
 <figure>
   <figcaption style="font-size: 1.1em">Chevrolet S-10 blanca cargada hasta el tope de ramas — El Sargento</figcaption>
-  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0076.jpeg" alt="Chevrolet S-10 blanca cargada de ramas">
+  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0076.jpeg" alt="Chevrolet S-10 blanca cargada de heno">
 </figure>
 
 ### Nissan
