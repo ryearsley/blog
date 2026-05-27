@@ -55,12 +55,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 
 <figure>
   <figcaption style="font-size: 1.1em">Ford F-250 negra — El Sargento</figcaption>
-  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0117.jpeg" alt="Ford F-250 negra">
-</figure>
-
-<figure>
-  <figcaption style="font-size: 1.1em">La misma F-250 negra, vista lateral completa — El Sargento</figcaption>
-  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0118.jpeg" alt="Ford F-250 negra, vista lateral">
+  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0116.jpeg" alt="Ford F-250 negra">
 </figure>
 
 <figure>
@@ -109,7 +104,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 
 <figure>
   <figcaption style="font-size: 1.1em">Ford Ranger blanca — El Sargento</figcaption>
-  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0116.jpeg" alt="Ford Ranger blanca">
+  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0118.jpeg" alt="Ford Ranger blanca">
 </figure>
 
 <figure>
@@ -136,7 +131,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 
 <figure>
   <figcaption style="font-size: 1.1em">Toyota Tacoma dorada con llantas todoterreno — El Sargento</figcaption>
-  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0115.jpeg" alt="Toyota Tacoma dorada">
+  <img src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0117.jpeg" alt="Toyota Tacoma dorada">
 </figure>
 
 ### Toyota T100
