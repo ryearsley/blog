@@ -59,7 +59,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 </figure>
 
 #### ¡Mi favorito!
-Me gusta mucho este Ford.
+Me gusta mucho esta Ford.
 <figure>
   <figcaption style="font-size: 1.1em">Ford F-150 blanca, sorprendentemente limpia — El Sargento</figcaption>
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0133.jpeg" alt="Ford F-150 blanca restaurada">
