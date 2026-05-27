@@ -58,7 +58,7 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0116.jpeg" alt="Ford F-250 negra">
 </figure>
 
-### ¡Mi favorito!
+#### ¡Mi favorito!
 Me gusta mucho esta Ford.
 <figure>
   <figcaption style="font-size: 1.1em">Ford F-150 blanca, sorprendentemente limpia — El Sargento</figcaption>
@@ -205,7 +205,7 @@ Me gusta mucho esta Ford.
 ### Dodge Dakota
 
 <figure>
-  <figcaption style="font-size: 1.1em">Dodge Dakota blanca cargada hasta el tope de ramas — El Sargento</figcaption>
+  <figcaption style="font-size: 1.1em">Dodge Dakota blanca cargada hasta el tope de ramas — El Sargento. Pertenece a mi jardinero, Medel.</figcaption>
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0076.jpeg" alt="Dodge Dakota blanca cargada de ramas">
 </figure>
 
