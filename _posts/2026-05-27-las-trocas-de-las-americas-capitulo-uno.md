@@ -32,13 +32,8 @@ En este blog les presento unos ejemplos de estas trocas que he capturado en BCS,
 </figure>
 
 <figure>
-  <figcaption style="font-size: 1.1em">La misma F-150 cargada de ramas — El Sargento</figcaption>
+  <figcaption style="font-size: 1.1em">La misma F-150 cargada de heno — El Sargento</figcaption>
   <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0124.jpeg" alt="Ford F-150 blanca con franja roja, cargada">
-</figure>
-
-<figure>
-  <figcaption style="font-size: 1.1em">Ford F-150 azul, cargada con equipo de trabajo — El Sargento</figcaption>
-  <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0119.jpeg" alt="Ford F-150 azul, vista trasera">
 </figure>
 
 ### Ford F-150 / F-250 (8a generación, ~1987-1991)
@@ -88,6 +83,11 @@ Me gusta mucho esta Ford.
 </figure>
 
 ### Ford Ranger
+
+<figure>
+  <figcaption style="font-size: 1.1em">Ford Ranger azul, cargada con equipo de trabajo — El Sargento</figcaption>
+  <img loading="lazy" src="{{ site.baseurl }}/assets/images/posts/las-trocas-de-las-americas-capitulo-uno/IMG_0119.jpeg" alt="Ford Ranger azul, vista trasera">
+</figure>
 
 <figure>
   <figcaption style="font-size: 1.1em">Ford Ranger roja, cabina extendida con llantas grandes — El Sargento</figcaption>
