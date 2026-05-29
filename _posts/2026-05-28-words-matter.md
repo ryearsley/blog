@@ -17,7 +17,7 @@ Words matter. They matter a lot. Unfortunately, words in the hands of powerful e
 
 > Who controls the past controls the future. Who controls the present controls the past.
 
-- George Orwell, 1984
+— George Orwell, 1984
 
 Ostensibly, here in the United States, we live under democratic rule. We're a relatively young country. The year 2026 marks our 250th year as a nation. Yet too soon, our imperfect fledgling union has grown cancerous. As I analyze the state of our nation, words become the telltale symptoms used to diagnose the disease weakening us from within.
 
@@ -27,17 +27,18 @@ I think most people know that we are in a so-called ceasefire with Iran. Leaving
 
 > These actions were measured, purely defensive, and intended to maintain the ceasefire.
 
-This was at least the second or third time this week I remember reading accounts of the strikes in Iran being described as "defensive". In my opinion, using the word defensive to describe deliberately firing missiles at Iran during a ceasefire turns language on its head. This is like saying up is down. We can argue about who did what and who fired first but that's not the point. Let's review. Prior to the U.S. asking for a ceasefire,
+This was at least the second or third time this week I remember reading accounts of the strikes in Iran being described as "defensive". In my opinion, using the word defensive to describe deliberately firing missiles at Iran during a ceasefire turns language on its head. This is like saying up is down. We can argue about who did what and who fired first but that's not the point. Let's review.
 
-1. Iran destroyed or degraded multiple U.S. military bases [across the Gulf region][gulf_bases].
-2. Iran inflicted significant damage on Israel.
-3. U.S. and Israeli air defense systems failed against Iranian missiles and drone swarms.
-4. The U.S. and Israel failed to topple the Iranian government.
-5. The U.S., in three months of war, used up about 50% of its available munitions, even after taking back Patriot missile batteries from allies like South Korea. The U.S. also [lost over 40 aircraft][aircraft_losses].
-6. A special operation attempting to extract enriched uranium from Isfahan by U.S. special forces was repelled by the Iranians in a humiliating defeat.
-7. After agreeing to a ceasefire, the U.S. imposed a blockade on Iran in what amounted to a blockade of a blockade. Prior to the illegal war carried out by the U.S. and Israel the Strait was wide open.
-8. Since the ceasefire, Iran has made clear that one of their requirements to end the war is enforcement of their continued control over the Strait of Hormuz. Iran recently has entered into an official agreement with Oman by forming the Persian Gulf Strait Authority (PGSA). The authority will guarantee security and charge a fee for every ship transiting the Strait.
-9. Until an ironclad peace deal is worked out, Iran has made clear that they will not allow ships flagged in the U.S., Israel or Gulf countries supporting U.S. military action to transit the Strait.
+1. The U.S. and Israel started the war by carrying out an illegal, premeditated sneak attack on Iran while in direct diplomatic negotiations over Iran's nuclear program.
+2. Iran destroyed or degraded multiple U.S. military bases [across the Gulf region][gulf_bases].
+3. Iran inflicted significant damage on Israel.
+4. U.S. and Israeli air defense systems failed against Iranian missiles and drone swarms.
+5. The U.S. and Israel failed to topple the Iranian government.
+6. The U.S., in three months of war, used up about 50% of its available munitions, even after taking back Patriot missile batteries from allies like South Korea. The U.S. also [lost over 40 aircraft][aircraft_losses].
+7. A special operation attempting to extract enriched uranium from Isfahan by U.S. special forces was repelled by the Iranians in a humiliating defeat.
+8. After agreeing to a ceasefire, the U.S. imposed a blockade on Iran in what amounted to a blockade of a blockade. Prior to the illegal war carried out by the U.S. and Israel the Strait was wide open.
+9. Since the ceasefire, Iran has made clear that one of their requirements to end the war is enforcement of their continued control over the Strait of Hormuz. Iran recently has entered into an official agreement with Oman by forming the Persian Gulf Strait Authority (PGSA). The authority will guarantee security and charge a fee for every ship transiting the Strait.
+10. Until an ironclad peace deal is worked out, Iran has made clear that they will not allow ships flagged in the U.S., Israel or Gulf countries supporting U.S. military action to transit the Strait.
 
 There's much more to say about the subtleties of the entire situation, but in my opinion it all boils down to a simple truth. Attacking a country 6,770 miles away (New York to Tehran) as the crow flies cannot be seen as "defensive". Nothing about this war has been defensive. Please use a different word in the future.
 
